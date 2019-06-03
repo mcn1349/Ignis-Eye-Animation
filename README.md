@@ -2,7 +2,7 @@
 
 This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The Ignis' eye will follow your cursor.  
 
-<strong>Links</strong> (only works in desktop browser)
+<strong>Links</strong> (using desktop browser is recommended)
 <ul>
   <li><a href="https://htmlpreview.github.io/?https://github.com/mcn1349/Ignis-Eye-Animation/blob/master/Ignis%20eye/Ai.html">Ai</a></li>
    <li><a href="https://htmlpreview.github.io/?https://github.com/mcn1349/Ignis-Eye-Animation/blob/master/Ignis%20eye/Flame.html">Flame</a></li>
