@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link href="style_Windy_brainwashed.css" rel="stylesheet" type="text/css">
+    <title>Windy - Brainwashed</title>
+  </head>
+  <body>
+
+    <!--
+    <div class="eyes">
+      <div class="eye">
+        <div class="ball"></div>
+      </div>
+    </div>
+    -->
+    
+    <div class="ball">
+      <div class="eye">
+        <div class="line1"></div>
+        <div class="line2"></div>
+        <div class="outer_eye">
+          <div class="inner_eye">
+            <div class="pupil"></div>
+          </div>
+        </div>
+      </div>
+      <div class="shut">
+          <span></span>
+      </div>
+    </div><!--
+    <hr style="border: 5px solid #8667AA;margin-top: 24.5%;" />
+    <hr style="border: 5px solid #8667AA;-webkit-transform:rotate(90deg);" />
+    <div class="eye">
+      <div class="shut">
+          <span></span>
+      </div>
+    </div>-->
+  </body>
+
+  <script>
+    var eye = document. getElementsByClassName("eye");
+    var pupil = document. getElementsByClassName("pupil");
+    document.onmousemove = function(){
+      var x = event.clientX * 100 / window.innerWidth;
+      var eye_X = (x+"%");
+      var pupil_X = pupils_change(x);
+
+      var y = event.clientY * 100 / window.innerHeight;
+      var eye_Y = (y+"%");
+      var pupil_Y = pupils_change(y);
+      for(var i=0;i<1;i++){
+        eye[i].style.left = eye_X;
+        eye[i].style.top = eye_Y;
+        eye[i].style.transform = "translate(-"+eye_X+",-"+eye_Y+")";
+        
+        pupil[i].style.left = pupil_X;
+        pupil[i].style.top = pupil_Y;
+        pupil[i].style.transform = "translate(-"+pupil_X+",-"+pupil_Y+")";
+      }
+    }
+
+    function pupils_change(xy){
+      var change = 0;
+      if (xy == 50){
+        return (50 + "%");
+      }
+      else if (xy > 50){
+        change = (xy - 50) / 2;
+        return ((xy-change)+"%"); 
+      }
+      else if (xy < 50){
+        change = (xy + 50) / 2;
+        return (change+"%"); 
+      }
+      else {alert("Error Occurred in Change!!!");}
+    }
+  </script>
+
+</html>

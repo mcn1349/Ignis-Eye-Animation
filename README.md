@@ -1,6 +1,6 @@
 # Ignis-Eye-Animation
 
-This project was inspired from the show Yu-Gi-Oh! Vrains. The eyes belongs to the 6 ignis who have a central role to the show and we made some eye animation base on them for fun. 
+This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The ignis' eye will fillow your cursor.  
 
 <strong>Links</strong> (only works in desktop browser)
 <ul>
@@ -12,9 +12,5 @@ This project was inspired from the show Yu-Gi-Oh! Vrains. The eyes belongs to th
   <li><a href="">Windy - Brainwashed</a></li>
   <li><a href="">Lightning</a></li>
 </ul>
-
-Developed by</br> 
-<ul>
-   <li><a href="https://github.com/mcn1349">Marcus Chan</a></li>
-  <li><a href="https://github.com/Tony-Chau">Tony Chau</a></li>
-</ul>
+</br>
+The character used are from Yu-Gi-Oh! Vrains. 
