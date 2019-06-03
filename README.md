@@ -1,6 +1,6 @@
 # Ignis-Eye-Animation
 
-This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The ignis' eye will fillow your cursor.  
+This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The Ignis' eye will fillow your cursor.  
 
 <strong>Links</strong> (only works in desktop browser)
 <ul>
@@ -13,4 +13,4 @@ This project was inspired from the show Yu-Gi-Oh! Vrains and we made these anima
   <li><a href="https://htmlpreview.github.io/?https://github.com/mcn1349/Ignis-Eye-Animation/blob/master/Ignis%20eye/Lightning.html">Lightning</a></li>
 </ul>
 </br>
-The character used are AI's from Yu-Gi-Oh! Vrains. 
+The character used are from Yu-Gi-Oh! Vrains. 
