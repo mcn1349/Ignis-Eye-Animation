@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  background: #4A4B5F; 
+  background: #4A4B5F;
   height: 100%;
   overflow: hidden;
 
@@ -30,7 +30,7 @@ body{
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  
+
 }
 
 .outer_eye{
@@ -100,7 +100,7 @@ body{
   top: 0%;
   left: 50%;
   transform: translate(-50%, -100%);
-  z-index: 999;
+  z-index: 99;
 }
 
 .shut span{
