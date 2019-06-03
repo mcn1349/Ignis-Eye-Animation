@@ -1,6 +1,6 @@
 # Ignis-Eye-Animation
 
-This project was inspired from the show Yu-Gi-Oh! Vrains. The eyes belongs to the 6 ignis who have a central role to the vrains show and we made some eye animation that follows the direction of your cursor. Have fun. The project was made for fun. 
+This project was inspired from the show Yu-Gi-Oh! Vrains. The eyes belongs to the 6 ignis who have a central role to the show and we made some eye animation base on them for fun. 
 
 <strong>Links</strong> (only works in desktop browser)
 <ul>
