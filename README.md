@@ -1,6 +1,6 @@
 # Ignis-Eye-Animation
 
-This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The Ignis' eye will fillow your cursor.  
+This project was inspired from the show Yu-Gi-Oh! Vrains and we made these animation sites for fun. The Ignis' eye will follow your cursor.  
 
 <strong>Links</strong> (only works in desktop browser)
 <ul>
